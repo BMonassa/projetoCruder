@@ -1,0 +1,16 @@
+.conteudo{
+    color: rgb(0, 0, 0);
+}
+.conteudoTwo{
+    background-color: rgb(242, 241, 241);
+    margin-top: 10px;
+}
+.conteudoTwo:hover{
+    background-color: rgb(70, 68, 68);
+    color:rgb(255, 255, 255);
+    transition: 1s;
+}
+.titleInfo{
+    text-align: center;
+    color: white;
+}
